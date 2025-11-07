@@ -23,6 +23,6 @@ Usage:<br>
 1) Running:<br>
    run all functions in main script at the bottom
 
-video:https://youtu.be/cF9ZfPDt_t0?si=Zz44idubCS_DghdL
+video:[https://youtu.be/cF9ZfPDt_t0?si=Zz44idubCS_DghdL](https://youtu.be/cF9ZfPDt_t0)
    
 

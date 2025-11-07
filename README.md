@@ -22,5 +22,7 @@ Setup:
 Usage:<br>
 1) Running:<br>
    run all functions in main script at the bottom
+
+video:https://www.youtube.com/watch?v=cF9ZfPDt_t0&t=17s
    
 
